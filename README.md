@@ -1,5 +1,6 @@
 [Pagina.ZIP](https://github.com/Kirbysnake/Andres-Felipe-Ramirez-Espinal---Isabela-Quinchia-Giraldo/files/9641743/Pagina.ZIP)
-//Pagina del Index
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>

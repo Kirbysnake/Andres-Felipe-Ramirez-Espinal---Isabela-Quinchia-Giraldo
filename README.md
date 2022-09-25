@@ -1,4 +1,4 @@
-[Pagina.ZIP](https://github.com/Kirbysnake/Andres-Felipe-Ramirez-Espinal---Isabela-Quinchia-Giraldo/files/9641743/Pagina.ZIP)
+[Pagina.ZIP](https://github.com/Kirbysnake/Andres-Felipe-Ramirez-Espinal---Isabela-Quinchia-Giraldo/files/9641743/Pagina.ZIP) //// PROYECTO COMPLETO
 
 
 <!DOCTYPE html>
@@ -22,7 +22,6 @@
     describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso. Algunos autores consideran un modelo de ciclo de vida
     un término más general que un determinado proceso para el desarrollo de software. Por ejemplo, hay varios procesos de desarrollo de software específicos
     que se ajustan a un modelo de ciclo de vida de espiral</p>
-
     <h2>Generalidades</h2>
     <p>
         La gran cantidad de organizaciones de desarrollo de software implementan metodologías para el proceso de desarrollo. Muchas de estas organizaciones pertenecen a la industria armamentística, que en los Estados Unidos necesita un certificado basado en su modelo de procesos para poder obtener un contrato.
@@ -31,7 +30,6 @@
         Sin una gestión del proyecto, los proyectos de software corren el riesgo de demorarse o consumir un presupuesto mayor que el planeado. Dada la cantidad de proyectos de software que no cumplen sus metas en términos de funcionalidad, costes o tiempo de entrega, una gestión de proyectos efectiva es algo imprescindible.
     </p>
     <br>
-
     <h2>Actividades del desarrollo de software</h2>
     <h3>Planificación</h3>
     <p>La importante tarea a la hora de crear un producto de software es obtener los requisitos o el análisis de los requisitos. Los clientes suelen tener una idea más bien abstracta del resultado final, pero no sobre las funciones que debería cumplir el software.
@@ -53,7 +51,6 @@
     <img src="images/Imagen1.png" alt="Cuadros">
     <br>
     <br>
-
     <h2> Calidad de datos</h2>
     <p>La calidad de datos son los procesos, metodologías y algoritmos para aumentar el estado cualitativo de los datos que existen en una entidad empresarial u organización de cualquier índole.
         Se considera que los datos son de calidad cuando estos cumplen con una serie de requisitos previamente estimados para aprovechar su utilización en los diferentes aspectos empresariales.
